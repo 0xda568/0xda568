@@ -1,5 +1,5 @@
 Hacker of boxes.
 
-Explorer of Kernels.
+Explorer of kernels.
 
 Owner of the mainframe
